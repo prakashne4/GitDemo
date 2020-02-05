@@ -15,6 +15,7 @@ namespace GitDemo
     {
         public MainPage()
         {
+
             InitializeComponent();
         }
     }
